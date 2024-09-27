@@ -1,0 +1,19 @@
+.color-selector {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &__variant {
+    font-size: 0;
+    width: 24px;
+    height: 24px;
+    border: 1px solid $color-text;
+    border-radius: 50%;
+    margin: 4px;
+    transition: transform 100ms cubic-bezier(0.22, 0.68, 0, 1.71);
+
+    &--active {
+      transform: scale(1.25);
+    }
+  }
+}

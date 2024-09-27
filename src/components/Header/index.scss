@@ -1,0 +1,26 @@
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    padding: 18px;
+    justify-content: space-between;
+  }
+
+  &__cart-counter {
+    background: $color-primary;
+    color: #000;
+    border-radius: 12px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 8px;
+    padding: 0 7px;
+    min-width: 24px;
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "index.html": {
+    "file": "assets/app-Cn2gcOMT.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/app-3xZSFMPN.css"
+    ],
+    "assets": [
+      "assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+      "assets/SevenVenom-Regular-BshrOaP-.ttf"
+    ]
+  },
+  "src/assets/fonts/BrigendsExpanded-Regular.otf": {
+    "file": "assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "src": "src/assets/fonts/BrigendsExpanded-Regular.otf"
+  },
+  "src/assets/fonts/SevenVenom-Regular.ttf": {
+    "file": "assets/SevenVenom-Regular-BshrOaP-.ttf",
+    "src": "src/assets/fonts/SevenVenom-Regular.ttf"
+  }
+}

@@ -1,0 +1,22 @@
+.option-selector {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+
+  &__option {
+    border: 1px solid $color-text;
+    margin: 4px;
+    font-size: $fontsize-lg;
+
+    &--active {
+      background: $color-text;
+      color: #fff;
+    }
+  }
+
+  @media screen and (min-width: $breakpoint-md) {
+    &__option {
+      font-size: $fontsize-x;
+    }
+  }
+}

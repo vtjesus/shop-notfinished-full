@@ -1,0 +1,9 @@
+.help-modal {
+  &__link {
+    margin-bottom: 36px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

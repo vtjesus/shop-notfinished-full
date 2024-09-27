@@ -1,0 +1,374 @@
+{
+  "\u0000D:/html/proect/dogs-store-main/node_modules/classnames/index.js?commonjs-module": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000D:/html/proect/dogs-store-main/node_modules/prop-types/index.js?commonjs-module": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000D:/html/proect/dogs-store-main/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-exports": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000D:/html/proect/dogs-store-main/node_modules/react-dom/index.js?commonjs-module": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000D:/html/proect/dogs-store-main/node_modules/react/cjs/react-jsx-runtime.production.min.js?commonjs-exports": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000D:/html/proect/dogs-store-main/node_modules/react/cjs/react.production.min.js?commonjs-exports": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000D:/html/proect/dogs-store-main/node_modules/react/index.js?commonjs-module": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000D:/html/proect/dogs-store-main/node_modules/react/jsx-runtime.js?commonjs-module": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000D:/html/proect/dogs-store-main/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-exports": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000D:/html/proect/dogs-store-main/node_modules/scheduler/index.js?commonjs-module": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "\u0000vite/modulepreload-polyfill.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "index.html": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/@remix-run/router/dist/router.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/classnames/index.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/invariant/browser.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/prop-types/factoryWithThrowingShims.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/prop-types/index.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/prop-types/lib/ReactPropTypesSecret.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react-dom/cjs/react-dom.production.min.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react-dom/client.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react-dom/index.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react-fast-compare/index.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react-helmet-async/lib/index.module.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react-router-dom/dist/index.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react-router/dist/index.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react/cjs/react-jsx-runtime.production.min.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react/cjs/react.production.min.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react/index.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/react/jsx-runtime.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/scheduler/cjs/scheduler.production.min.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/scheduler/index.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/shallowequal/index.js": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/vite-react-ssg/dist/index.mjs": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.054e813a.mjs": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.579feabb.mjs": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.a292c181.mjs": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/App.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/assets/scss/animations.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/assets/scss/fonts.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/assets/scss/global.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/assets/scss/helpers.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Article/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Article/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Button/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Button/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/CartItem/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/CartItem/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/CartModal/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/CartModal/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/ColorSelector/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/ColorSelector/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/ConditionalWrap/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/CountSelector/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/CountSelector/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Footer/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Footer/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Header/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Header/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/HelpModal/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/HelpModal/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Modal/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/Modal/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/OptionSelector/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/OptionSelector/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/PageMeta/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/ProductGrid/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/ProductGrid/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/ProductImage/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/ProductTile/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/ProductTile/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/ScrollToTop/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/WidthLimiter/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/WidthLimiter/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/WobblyLink/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/components/WobblyLink/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/config/index.ts": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/constants/products.ts": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/context/CartContext/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/context/ProductContext/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/hooks/useClickOutside.ts": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/layouts/AppLayout/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/layouts/AppLayout/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/main.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/pages/DeliveryAndReturnsPage/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/pages/DeliveryAndReturnsPage/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/pages/HomePage/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/pages/HomePage/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/pages/ProductPage/index.scss": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/pages/ProductPage/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/routes/index.tsx": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/utils/availability.ts": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ],
+  "src/utils/cart.ts": [
+    "/dogs-store/assets/BrigendsExpanded-Regular-DT_URlcc.otf",
+    "/dogs-store/assets/SevenVenom-Regular-BshrOaP-.ttf"
+  ]
+}

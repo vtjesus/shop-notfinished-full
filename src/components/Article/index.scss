@@ -1,0 +1,28 @@
+.article {
+  padding: 0 18px;
+  margin: 72px 0;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  background: #fff;
+
+  h1 {
+    font-size: $fontsize-x;
+    margin-bottom: 18px;
+  }
+
+  h2 {
+    font-size: $fontsize-lg;
+    margin: 54px 0 18px;
+  }
+
+  p {
+    margin-bottom: 18px;
+    font-family: 'Arial';
+  }
+
+  a {
+    text-decoration: underline;
+    font-family: 'Arial';
+  }
+}

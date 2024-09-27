@@ -1,0 +1,29 @@
+.wobbly-link {
+  display: flex;
+  align-items: center;
+
+  &__label {
+    & > span {
+      animation-name: wobble;
+      animation-timing-function: cubic-bezier(0.22, 0.68, 0, 1.71);
+      animation-duration: 400ms;
+      animation-fill-mode: both;
+      display: inline-block;
+      transform: translateY(0px);
+      animation-iteration-count: 1;
+
+      @for $i from 1 through 9 {
+        &:nth-child(#{$i}n) {
+          animation-delay: #{$i * 50}ms;
+        }
+      }
+    }
+  }
+
+  &:hover &__label {
+    & > span {
+      animation-play-state: running;
+      animation-iteration-count: infinite;
+    }
+  }
+}

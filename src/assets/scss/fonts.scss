@@ -1,0 +1,13 @@
+@font-face {
+  src: local(BrigendsExpanded-Regular), url('@/assets/fonts/BrigendsExpanded-Regular.otf') format('opentype');
+  font-family: $family-default;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  src: local(SevenVenom-Regular), url('@/assets/fonts/SevenVenom-Regular.ttf') format('truetype');
+  font-family: $family-alt;
+  font-weight: normal;
+  font-style: normal;
+}

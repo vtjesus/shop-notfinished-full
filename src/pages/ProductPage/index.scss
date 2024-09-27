@@ -1,0 +1,171 @@
+.product-page {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  pointer-events: none;
+  padding: 72px 0;
+
+  h1 {
+    & > span {
+      font-size: $fontsize-x;
+      word-break: break-all;
+    }
+  }
+
+  h2 {
+    font-size: $fontsize-lg;
+    text-align: center;
+    padding: 72px 0 18px;
+  }
+
+  &__price {
+    font-size: $fontsize-x;
+  }
+
+  &__cols {
+    background: #fff;
+    padding: 18px;
+  }
+
+  &__info-col {
+    pointer-events: all;
+
+    &:last-child {
+      margin: -4px;
+    }
+  }
+
+  &__img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 36px;
+
+    & > img {
+      width: 100%;
+      height: 100%;
+      max-height: 60vh;
+      object-fit: contain;
+      padding: 18px;
+      transition: transform 250ms cubic-bezier(0.22, 0.68, 0, 1.71);
+    }
+
+    &--size-s > img {
+      transform: scale(0.9);
+    }
+
+    &--size-m > img {
+      transform: scale(0.95);
+    }
+
+    &--size-l > img {
+      transform: scale(1);
+    }
+
+    &--size-xl > img {
+      transform: scale(1.05);
+    }
+
+    &--size-xxl > img {
+      transform: scale(1.1);
+    }
+  }
+
+  &__add-to-cart-btn {
+    margin: 4px;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  &__section {
+    background: #fff;
+    position: relative;
+    pointer-events: all;
+  }
+
+  &__chips {
+    display: flex;
+    justify-content: flex-end;
+
+    & > span {
+      background: $color-danger;
+      color: #fff;
+      margin: 4px;
+    }
+  }
+
+  @media screen and (min-width: $breakpoint-md) {
+    h1 {
+      & > span {
+        font-size: $fontsize-xl;
+        word-break: keep-all;
+      }
+    }
+
+    h2 {
+      font-size: $fontsize-x;
+    }
+
+    &__chips {
+      & > span {
+        font-size: $fontsize-lg;
+      }
+    }
+  }
+
+  @media screen and (min-width: $breakpoint-lg) {
+    padding: 0;
+
+    &__price {
+      font-size: $fontsize-xl;
+    }
+
+    &__cols {
+      background: none;
+      position: relative;
+    }
+
+    &__info {
+      position: fixed;
+      top: 144px;
+      display: flex;
+      justify-content: space-between;
+      width: calc(100% - 36px);
+      max-width: 1404px;
+    }
+
+    &__img {
+      height: calc(100vh - 36px);
+      margin: 0;
+    }
+
+    &__section {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+
+      & > * {
+        &:last-child {
+          flex: 1;
+        }
+      }
+    }
+
+    h2 {
+      position: sticky;
+      left: 0;
+      right: 0;
+      top: 0;
+    }
+  }
+
+  @media screen and (min-width: $breakpoint-xl) {
+    &__img {
+      & > img {
+        max-height: 80vh;
+      }
+    }
+  }
+}

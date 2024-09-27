@@ -1,0 +1,30 @@
+.product-grid {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  &--full-height {
+    & > * {
+      height: 100vh;
+      min-height: 680px;
+    }
+  }
+
+  @media screen and (min-width: $breakpoint-sm) {
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    & > * {
+      flex: 1;
+      flex-basis: 50%;
+      max-width: 50%;
+    }
+  }
+
+  @media screen and (min-width: $breakpoint-lg) {
+    & > * {
+      flex-basis: 33.33333%;
+      max-width: 33.33333%;
+    }
+  }
+}
